@@ -1,0 +1,9 @@
+C:\Automation\GlazyMobileTest\GlazyMobileTest\bin\Debug\GlazyMobileTest.exe.config
+C:\Automation\GlazyMobileTest\GlazyMobileTest\bin\Debug\GlazyMobileTest.exe
+C:\Automation\GlazyMobileTest\GlazyMobileTest\bin\Debug\GlazyMobileTest.pdb
+C:\Automation\GlazyMobileTest\GlazyMobileTest\bin\Debug\WebDriver.dll
+C:\Automation\GlazyMobileTest\GlazyMobileTest\bin\Debug\WebDriver.xml
+C:\Automation\GlazyMobileTest\GlazyMobileTest\obj\Debug\GlazyMobileTest.csprojResolveAssemblyReference.cache
+C:\Automation\GlazyMobileTest\GlazyMobileTest\obj\Debug\GlazyMobileTest.csproj.CoreCompileInputs.cache
+C:\Automation\GlazyMobileTest\GlazyMobileTest\obj\Debug\GlazyMobileTest.exe
+C:\Automation\GlazyMobileTest\GlazyMobileTest\obj\Debug\GlazyMobileTest.pdb
